@@ -67,3 +67,15 @@ a{
     padding-bottom: 10px;
     text-align: justify;
 }
+
+@media (max-width:800px) {
+    #title{
+        width: 500px;
+    }
+    #container{
+        width: 500px;
+    }
+    #container-sim{
+        width: 500px;
+    }
+}
