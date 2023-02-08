@@ -81,6 +81,16 @@ a{
     #sim,
     #nao{
         width: 100px;
+        margin: 0px 50px;
         display: block;
-}
+    }
+
+    #nao{
+        margin-top: 20px;
+    }
+    #eba,
+    .text{
+        border: 1px solid red;
+        overflow: hidden;
+    }
 }
