@@ -70,12 +70,17 @@ a{
 
 @media (max-width:800px) {
     #title{
-        width: 500px;
+        width: 300px;
     }
     #container{
-        width: 500px;
+        width: 300px;
     }
     #container-sim{
-        width: 500px;
+        width: 300px;
     }
+    #sim,
+    #nao{
+        width: 100px;
+        display: block;
+}
 }
