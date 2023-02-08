@@ -81,7 +81,7 @@ a{
     #sim,
     #nao{
         width: 100px;
-        margin: 0px 50px;
+        margin: 0px 18%;
         display: block;
     }
 
@@ -90,7 +90,6 @@ a{
     }
     #eba,
     .text{
-        border: 1px solid red;
         overflow: hidden;
     }
 }
